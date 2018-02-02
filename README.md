@@ -1,9 +1,9 @@
 # ![logo](https://rawgit.com/otto-de/security-belt/master/public/logo.svg) Security Belt
 
-[![Build Status](https://travis-ci.org/otto-de/security-belt.svg?branch=master)](https://travis-ci.org/otto-de/security-belt)
-[![Dependencies Status](https://david-dm.org/otto-de/security-belt/status.svg)](https://david-dm.org/otto-de/security-belt)
-[![DevDependencies Status](https://david-dm.org/otto-de/security-belt/dev-status.svg)](https://david-dm.org/otto-de/security-belt?type=dev)
-[![Heroku](http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat&svg=1)](https://security-belt.herokuapp.com/)
+[![Build Status](https://travis-ci.org/thoughtworks/security-belt.svg?branch=master)](https://travis-ci.org/thoughtworks/security-belt)
+[![Dependencies Status](https://david-dm.org/thoughtworks/security-belt/status.svg)](https://david-dm.org/thoughtworks/security-belt)
+[![DevDependencies Status](https://david-dm.org/thoughtworks/security-belt/dev-status.svg)](https://david-dm.org/thoughtworks/security-belt?type=dev)
+
 
 A framework for improving the IT-Security of your teams through gamification.
 It allows teams to self-asses their security level and rewards them with security belts (from yellow through black). It also ranks the teams by the amount of aquired skills.
